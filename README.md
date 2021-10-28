@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Hoje Trabalho como Desenvolvedor Javascript/Typescript | JN Moura Sistemas de Gestão
-- 👨‍🎓 Estudando Javascript/TypeScript/Angular
+- 👨‍🎓 Estudando Javascript/TypeScript/Reac
 
 ##
 
