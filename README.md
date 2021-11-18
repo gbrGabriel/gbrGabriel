@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Gabriel Silva, <br> tenho 19 anos e sou Desenvolvedor Full-Stack.
 
 
-- 👨‍💻 Hoje Trabalho como Desenvolvedor Javascript/Typescript | JN Moura Sistemas de Gestão
-- 👨‍🎓 Estudando Javascript/TypeScript/Reac
+- 👨‍💻 Hoje Trabalho como Desenvolvedor Javascript/Typescript/VB.NET | JN Moura Sistemas de Gestão
+- 👨‍🎓 Estudando Javascript/TypeScript/React
 
 ##
 
@@ -16,7 +16,7 @@
   <img align="center" alt="gbr-Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center" alt="gbr-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="gbr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gbr-angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img align="center" alt="gbr-react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
 
   <img align="right" alt="cat-codding" src="https://media.tenor.com/images/56074b63a3b147fe7ac2ff71d3e9fc26/tenor.gif">
 </div>
