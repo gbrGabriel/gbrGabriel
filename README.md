@@ -14,9 +14,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="gbr-Js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center" alt="gbr-Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="center" alt="gbr-react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
   <img align="center" alt="gbr-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="gbr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gbr-react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
 
   <img align="right" alt="cat-codding" src="https://media.tenor.com/images/56074b63a3b147fe7ac2ff71d3e9fc26/tenor.gif">
 </div>
