@@ -1,8 +1,8 @@
-### Olá! Eu me chamo Gabriel Silva, <br> tenho 19 anos e sou Desenvolvedor Full-Stack.
+### Olá! Eu me chamo Gabriel Silva, <br> tenho 20 anos e sou Desenvolvedor .NET.
 
 
-- 👨‍💻 Hoje Trabalho como Desenvolvedor Javascript/Typescript/VB.NET | JN Moura Sistemas de Gestão
-- 👨‍🎓 Estudando Javascript/TypeScript/React
+- 👨‍💻 Hoje Trabalho como Desenvolvedor .NET  | JN Moura Sistemas de Gestão
+- 👨‍🎓 Estudando C#/TypeScript/Angular/.NET
 
 ##
 
@@ -12,9 +12,10 @@
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrGabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="gbr-dotnet" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/dotnet.svg">
+  <img align="center" alt="gbr-csharp" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center" alt="gbr-Js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center" alt="gbr-Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="center" alt="gbr-react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
   <img align="center" alt="gbr-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="gbr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
