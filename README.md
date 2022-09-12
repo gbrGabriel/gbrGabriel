@@ -1,8 +1,8 @@
-### Olá! Eu me chamo Gabriel Silva, <br> tenho 20 anos e sou Desenvolvedor .NET.
+### Olá! Eu me chamo Gabriel Silva, <br> tenho 20 anos e sou Desenvolvedor .NET Trainee.
 
 
-- 👨‍💻 Hoje Trabalho como Desenvolvedor .NET  | JN Moura Sistemas de Gestão
-- 👨‍🎓 Estudando C#/TypeScript/Angular/.NET
+- 👨‍💻 Hoje Trabalho como Desenvolvedor .NET | JN Moura Sistemas de Gestão
+- 👨‍🎓 Estudando C#/Angular/ASP.NET Core/SQL Server
 
 ##
 
