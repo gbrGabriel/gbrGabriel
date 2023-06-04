@@ -1,11 +1,7 @@
 ### Olá! Eu me chamo Gabriel Silva, <br> tenho 20 anos e sou Desenvolvedor .NET Júnior.
-
-
-- 👨‍💻 Hoje Trabalho como Desenvolvedor .NET | JN Moura Sistemas de Gestão
-- 👨‍🎓 Estudando C#/Angular/ASP.NET Core/SQL Server
+Entusiasta da tecnologia e desenvolvedor formado em Técnico em Informática. Tenho conhecimento em .NET, C#, VB.NET, TypeScript e Angular, além de experiência com bancos de dados relacionais, como o SQL Server. Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências. Apaixonado por criar soluções inovadoras e eficientes, estou determinado a superar desafios e alcançando resultados de qualidade.
 
 ##
-
  <div>
   <a href="https://github.com/gbrGabriel">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=gbrGabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
