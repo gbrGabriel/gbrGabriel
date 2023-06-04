@@ -1,5 +1,5 @@
 ### Olá! Eu me chamo Gabriel Silva, <br> tenho 20 anos e sou Desenvolvedor .NET Júnior.
---Entusiasta da tecnologia e desenvolvedor formado em Técnico em Informática. Tenho conhecimento em .NET, C#, VB.NET, TypeScript e Angular, além de experiência com bancos de dados relacionais, como o SQL Server. Estou --sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências. Apaixonado por criar soluções inovadoras e eficientes, estou determinado a superar desafios e alcançando resultados ---de qualidade.
+-Entusiasta da tecnologia e desenvolvedor formado em Técnico em Informática. Tenho conhecimento em .NET, C#, VB.NET, TypeScript e Angular, além de experiência com bancos de dados relacionais, como o SQL Server. Estou -sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências. Apaixonado por criar soluções inovadoras e eficientes, estou determinado a superar desafios e alcançando resultados de qualidade.
 
 ##
  <div>
