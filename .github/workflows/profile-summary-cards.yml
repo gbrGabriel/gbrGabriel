@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: gbrGabriel/github-profile-summary-cards@release
+      - uses: https://github.com/gbrGabriel/templates/tree/master/profile-summary-card-output/dracula@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY-CARDS-TOKEN }}
         with:
